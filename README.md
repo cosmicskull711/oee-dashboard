@@ -89,6 +89,12 @@ jupyter notebook notebooks/01_eda_and_cleaning.ipynb
 
 ---
 
+## 🚧 Project Status
+
+**In progress** — data generation and EDA complete, SQL analysis and Power BI dashboard coming next.
+
+---
+
 ## 👤 Author
 
 **Harsh Dubey** — [LinkedIn](https://www.linkedin.com/in/harsh-dubey-1b169a242) · [GitHub](https://github.com/cosmicskull711)
